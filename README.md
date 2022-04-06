@@ -1,11 +1,18 @@
 ## Hi there 👋
-<head>
   <div align="center">
     <a href="https://github.com/renatosesso">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renatosesso&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatosesso&layout=compact&langs_count=16&theme=onedark"/>
   </div>
-</head>
+  
+  <div align="center">
+    <br>
+      <a href="https://github.com/renatosesso/renatosesso/header.svg">
+        <img src="header.svg" width="800" height="400">
+      </a>
+    <br>
+  </div>
+
   
   
   <div align="center" style="display: inline_block"><br>
