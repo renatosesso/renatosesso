@@ -5,10 +5,12 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatosesso&layout=compact&langs_count=16&theme=onedark"/>
   </div>
   
-  <div align="center">
+  <div align="center">    
     <br>
       <a href="https://github.com/renatosesso/renatosesso/header.svg">
         <img src="header.svg" width="800" height="400">
+        <p id="text" class="text">Techs: </p>
+        <div class="bar"></div>
       </a>
     <br>
   </div>
