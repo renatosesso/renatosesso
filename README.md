@@ -23,5 +23,5 @@
     <a href="https://www.linkedin.com/in/renato-henrique-silva-41ba2477" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
     
-    ![Snake animation](https://github.com/renatosesso/renatosesso/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/renatosesso/renatosesso/blob/0ae2bb3101c4bd0f0c7d27e64a32063379e1558d/github-contribution-grid-snake.svg)
    
