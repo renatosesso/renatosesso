@@ -24,6 +24,4 @@
 
     
     ![Snake animation](https://github.com/renatosesso/renatosesso/blob/output/github-contribution-grid-snake.svg)
-
-    </div>
-    
+   
